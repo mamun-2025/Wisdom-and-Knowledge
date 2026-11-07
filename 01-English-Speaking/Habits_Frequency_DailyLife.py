@@ -46,3 +46,50 @@
 40. I usually learn english Because I want to speak confidently with other people.
 
 """
+
+# Pattern 2: I normally + verb
+# গঠন: I normally + Verb (base form)
+# বাংলা অর্থ: আমি সাধারণত … করি।
+# Normally এবং usually-এর অর্থ কাছাকাছি। 
+# Normally দিয়ে স্বাভাবিক রুটিন বা প্রত্যাশিত পরিস্থিতি বোঝানো যায়।
+"""
+I normally get up at six.
+I normally have breakfast before work.
+I normally leave home in the morning.
+I normally return home in the evening.
+I normally study after dinner.
+I normally start my day with a cup of tea.
+I normally check my schedule in the morning.
+I normally plan my tasks for the day.
+I normally take notes during lessons.
+I normally finish one task before starting another.
+I normally revise difficult leetcode problems twice.
+I normally practice english everyday.
+I normally read documentation when I get stuck.
+I normally ask questions when I don't understand.
+I normally speak slowly when I feel nervous.
+I normally learn new vocabulary everyday.
+I normally check my code when I see error.
+I normally write simple code first.
+I normally test each feature separately.
+I normally back up important files.
+I normally use Git to track my changes.
+I normally review my progress every week.
+I normally keep my workspace clean.
+I normally avoid using my phone while studying.
+I normally spend my free time reading or learning.
+I normally discuss problems with colleagues.
+I normally arrive a little ago.
+I normally find my error when code doesn't work.
+I normally prepare my clothes the night before.
+I normally prepare my lessons for the next day.
+I normally save my work before shutting down my laptop.
+I normally follow my routine unless somethig unexpectecd happens.
+I normally try to speak english.
+I normally spend my weekends wth my friends and family.
+I normally take a short break after studying.
+I normally exercise at night.
+I normally learn coding from chatgpt.
+I normally compare different solutions before choosing one.
+
+"""
