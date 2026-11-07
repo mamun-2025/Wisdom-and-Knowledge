@@ -13,22 +13,21 @@ Finance হলো অর্থ, বিনিয়োগ, আর্থিক স
 
 # 2. Important Financial Terminology
 """
-আর্থিক ব্যবস্থাপনা = 
-অর্থ = 
-আয় = 
-ব্যয় = 
-সঞ্চয় = 
-বিনিয়োগ = 
-বাজেট = 
-সম্পদ =
-দায় =
-মুনাফা = 
-ক্ষতি = 
-ঋণ =
-সম্পদ বা আর্থিক সমৃদ্ধি = 
-মূলধন = 
-নগদ অর্থের প্রবাহ =
-
+আর্থিক ব্যবস্থাপনা = Finance
+অর্থ = Money
+আয় = Income
+ব্যয় = Expense
+সঞ্চয় = Savings
+বিনিয়োগ = Investment
+বাজেট = Budget
+সম্পদ = Asset
+দায় = Liability
+মুনাফা = Profit
+ক্ষতি = Loss
+ঋণ = Debt
+সম্পদ বা আর্থিক সমৃদ্ধি = Wealth 
+মূলধন = Capital
+নগদ অর্থের প্রবাহ = Cash Flow
 
 মনে রাখবে:
 Income ≠ Wealth
