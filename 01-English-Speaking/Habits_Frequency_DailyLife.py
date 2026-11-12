@@ -93,3 +93,56 @@ I normally learn coding from chatgpt.
 I normally compare different solutions before choosing one.
 
 """
+
+# Pattern 3: I often + verb
+# গঠন: I often + Verb (base form)
+# বাংলা অর্থ: আমি প্রায়ই … করি।
+"""
+I often read books.
+I often listen to English conversations.
+I often practice Enlish speaking in front of a mirror.
+I often learn from my mistakes.
+I often learn from educated person.
+I often learn new English expressions.
+I often practice python and django.
+I often solve leetcode problems.
+I often talk to my family.
+I often write leetcode problems in my notebook.
+I often help my family.
+I often think about future.
+I often watch English movie.
+I often watch educational videos.
+I often make mistakes when I speak English.
+I often forget new words.
+I often practice Python programming.
+I often review my lessons.
+I often solve problems on leetcode.
+I often debug my applications.
+I often debug django projects.
+I often practice using Git commands.
+I often practice using linux commands.
+I often search better solutions.
+I often ask questions when I get confused.
+I often explain what I have learned.
+I often break complex problems into smaller parts.
+I often compare my current skills with past skills.
+I often learn from other developers.
+I often learn from chatgpt.
+I often learn two approach when I get stuck.
+I often take short breaks between study sessions.
+I often feel motivated after completing a task.
+I often plan next leaning goal.
+I often read new english sentences.
+I often brush my teen at night.
+I often fix my personal problem.
+I often remind myself to stay consistent.
+I often think about how to improve my communication.
+I often say educational story.
+I often feel nervous when I do hard work.
+I often sleep at 10 pm.
+I often ask from chatgpt when I make a mistake.
+I often read documentation when I get stuck.
+I often give some examples when I practice code.
+I often give some advice but you didn't listen my word.
+
+"""
