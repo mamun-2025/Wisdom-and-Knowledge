@@ -46,6 +46,7 @@ Transformation = রূপান্তর
 Discover = আবিষ্কার করা
 Seek = অনুসন্ধান করা
 Search = খোঁজা
+Ego = অহংকার
 Believe = বিশ্বাস করা
 Faith = বিশ্বাস
 Soul = আত্মা
@@ -90,6 +91,15 @@ EQ = Emotional Intelligence.
 5. Self-discovery takes time.
 = নিজেকে আবিষ্কার করতে সময় লাগে।
 
+6. Everyone has a different perspective.
+= প্রত্যেকের দৃষ্টিভঙ্গি আলাদা।
+
+7. Personal growth takes time.
+= ব্যক্তিগত উন্নতির জন্য সময় প্রয়োজন।
+
+8. She wants to discover her true self.
+= সে নিজের প্রকৃত সত্তাকে আবিষ্কার করতে চায়।
+
 """
 
 
@@ -115,19 +125,31 @@ EQ = Emotional Intelligence.
 18. Understand each other = একে অপরকে বোঝা
 19. Be true to yourself = নিজের কাছে সৎ থাকা
 20. Embrace change = পরিবর্তনকে গ্রহণ করা
+21. Take responsibility = দায়িত্ব গ্রহণ করা
+22. Follow your dreams = নিজের স্বপ্ন অনুসরণ করা
+23. Accept your mistakes = নিজের ভুল স্বীকার করা
+24. Understand human nature = মানুষের স্বভাব বোঝা
+25. Build meaningful relationships = অর্থবহ সম্পর্ক গড়ে তোলা
+26. Look at life differently = জীবনকে ভিন্নভাবে দেখা
+27. Get to know yourself = নিজেকে চিনতে শেখা
 
 1. I am searching for meaning in my life.
 2. I want to find inner peace.
 3. I believe in learning from experience.
 4. Reading books helps me change my perspective.
 5. I want to grow as a person.
+6. I am trying to change my perspective.
+7. I want to build a meaningful relationships.
+8. I believe that wisdom comes from experience.
+9. I believe in personal growth.
+10. I want to get to knonw myself better. 
 
 """
 
 
 # 3. Grammar in Context
 """
-কোনো সাধারণ সত্য, অভ্যাস বা নিয়মিত কাজ বোঝাতে ব্যবহার হয়।
+1. কোনো সাধারণ সত্য, অভ্যাস বা নিয়মিত কাজ বোঝাতে ব্যবহার হয়।
 Subject + Verb(s/es) + Object
 ______________________________
 
@@ -137,8 +159,7 @@ Rumi seeks wisdom. Rumi প্রজ্ঞা অনুসন্ধান কর
 Shams questions traditions. Shams প্রচলিত রীতিকে প্রশ্ন করেন।
 
 
-
-অতীতে সম্পন্ন হওয়া কাজ বোঝাতে ব্যবহার হয়।
+2. অতীতে সম্পন্ন হওয়া কাজ বোঝাতে ব্যবহার হয়।
 Subject + V2 + Object
 _____________________
 
@@ -153,6 +174,56 @@ I learned something important yesterday.
 
 I search for knowledge.
 I searched for knowledge through reading.
+
+
+3. আমি কিছু করতে চাই।
+I want to + Verb 
+
+I want to learn English.
+I want to understand human psychology.
+I want to become a better.
+
+
+4. আমি বিশ্বাস করি যে...
+I believe that + sentence
+
+I believe that love is important.
+I believe that everyone can change.
+I believe that experience teaches us wisdom.
+
+
+5. প্রত্যেকেরই কিছু আছে।
+Everyone has + Noun
+
+Everyone has a different story.
+Everyone has emotions.
+Everyone has dreams.
+Everyone has responsibilities.
+
+
+6. কোনো কিছু করা গুরুত্বপূর্ণ।
+It is important to + verb
+
+It is important to understand others.
+It is important to solve this problem.
+It is important to respect people.
+It is important to learn from mistakes.
+It is important to practice this lesson.
+It is important to help family.
+It is important to build better future.
+It is important to create an Github account.
+
+
+7. আমরা কোনো কিছু থেকে শিখতে পারি।
+We can learn from + Noun
+
+We can learn from books.
+We can learn from our mistakes.
+We can learn from my past.
+We can learn from other peoples experiences.
+We can learn from chatgpt.
+We can learn from computer.
+We can learn from education story.
 
 """
 
@@ -236,5 +307,17 @@ Reading books, learning from mistakes and reflecting on experiences can help you
 Self-discovery is not one-day process.
 It takes time, patience and courage.
 I believe that knowing yourself is the first step towards becoming a better person.
+
+"""
+
+
+# 8. Speaking Practice
+"""
+My name is Mamun Bepari.
+Today, I am going to introduce a beautiful novel called The Forty Rules of Love, written by Elif Shafak.
+This novel explores love, wisdom, spirituality, and human relationships.
+It connects two different worlds: a modern story about Ella Rubinstein and a historical story about Rumi and Shams of Tabriz.
+Through this novel, I want to understand human nature, develop my English skills, and improve my criticcal thinking.
+I believe that reading books can help us become more knowledgeable and thoughtful people.
 
 """
