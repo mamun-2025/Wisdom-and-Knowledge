@@ -44,39 +44,40 @@ For example, using smartphones, computers, email, social media, and online banki
 
 # 2. Terminology — গুরুত্বপূর্ণ English Terms
 """
-Digital Life = 
-Digital Technology = 
-Digital Device = 
-Smartphone = 
-Computer =
-Internet =
-Website = 
-Web Application =
-Mobile Application =
-Software =
-Hardware = 
-User Account =
-Username =
-Password =
-Digital Identity =
-Cybersecurity = 
-Privacy =
-Authentication =
-Backup = 
+Digital Life = ডিজিটাল জীবন
+Digital Technology = ডিজিটাল প্রযুক্তি
+Digital Device = ডিজিটাল যন্ত্র
+Smartphone = স্মার্টফোন
+Computer = কম্পিউটার
+Internet = 	ইন্টারনেট
+Website = ওয়েবসাইট
+Web Application = ওয়েব অ্যাপ্লিকেশন
+Mobile Application = মোবাইল অ্যাপ
+Software = সফটওয়্যার
+Hardware = হার্ডওয়্যার
+User Account = ব্যবহারকারীর অ্যাকাউন্ট
+Username = ব্যবহারকারীর নাম
+Password = পাসওয়ার্ড
+Personal Data = ব্যক্তিগত তথ্য
+Digital Identity = ডিজিটাল পরিচয়
+Cybersecurity = সাইবার নিরাপত্তা
+Privacy = গোপনীয়তা
+Authentication = পরিচয় যাচাই
+Backup = তথ্যের অতিরিক্ত সংরক্ষিত কপি
 """
 # Full Forms
 """
-ICT =
-IT = 
-URL = 
-WWW = 
-OS = 
-CPU = 
-RAM =
-ROM = 
-OTP =
-2FA =
-VPN = 
+ICT = Information and Communicatioin Technology
+IT = Information Technology
+URL = Uniform Resource Locator
+WWW = World Wide Web
+OS = Operatiing System
+CPU = Centaral Processing unit
+RAM = Random  Access Memory
+ROM = Read Only Memory
+OTP = One-Time Password
+2FA = Two-Factor Authentication
+VPN = Virtual Private Network
 
 মনে রাখবে: Internet এবং WWW একই জিনিস নয়। 
 Internet হলো বিশ্বব্যাপী সংযুক্ত নেটওয়ার্ক ব্যবস্থা; 
@@ -87,6 +88,37 @@ WWW হলো Internet-এর ওপর পরিচালিত ওয়েবপ
 
 # 3. Definition — সহজ English Definitions
 """
+1. What is digital device?
+A digital device is an electronic device that processes or stores digital information.
+= 
+
+2. What is internet?
+The internet is a global network of connected computer networks.
+= 
+
+3. What is website?
+A website is a collection of related web pages available on the internet.
+=
+
+4. What is User Account?
+A user account is a personal identity used to access a digital service.
+=
+
+5. What is Personal Data?
+Personal data is information that relates an identifiable person.
+=
+
+6. What is CyberSecurity?
+CyberSecurity is the method of protecting digital systems, networks, devices and data from digital attacks.
+=
+
+7. What is Privacy?
+Privacy means having control over your personal information collected and how it is used and shared.
+=
+
+8. What is Backup?
+Backup is an additional copy of data kept for recovery if the original data is lost or damaged.
+=
 
 """
 
