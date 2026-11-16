@@ -146,3 +146,45 @@ I often give some examples when I practice code.
 I often give some advice but you didn't listen my word.
 
 """
+
+
+# Pattern 4: I sometimes + verb
+# গঠন: I sometimes + Verb (base form)
+# বাংলা অর্থ: আমি মাঝে মাঝে … করি।
+"""
+I sometimes practice english with myself.
+I sometimes wake up late.
+I sometimes drink coffee in the evening.
+I sometimes talk to myself in English.
+I sometimes feel shy when speaking english.
+I sometimes break complex problems into smaller parts.
+I sometimes watch movies at night.
+I sometimes go for a walk.
+I sometimes skip breakfast.
+I sometimes listene to podcasts.
+I sometimes read novels.
+I sometimes struggle to find the right words.
+I sometimes change my study plan.
+I sometimes forget what I want to say.
+I sometimes study in the morning.
+I sometimes take a longer break.
+I sometimes make a simple coding mistakes.
+I sometimes write new vocabulary.
+I sometimes feel tired after work.
+I sometimes practice English with a friend.
+I sometimes forget to save my code.
+I sometimes use a different approach to solve a problem.
+I sometimes read documentation when I get stuck.
+I sometimes understand other developers code.
+I sometimes ask for feedback on my work.
+I sometimes update my projects sturcture.
+I sometimes update my django project's feature.
+I sometimes feel nervous when I do hardwork.
+I sometimes help others understand difficult concepts.
+I sometimes need extra time to understand a new topic.
+I sometimes spend too much on django porjects.
+I sometimes compare my present skills and past skills.
+I sometimes compare different learning resources.
+I sometimes feel uncertain with my progress but I don't give up and I practice more.
+
+"""
