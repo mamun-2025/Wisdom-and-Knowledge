@@ -188,3 +188,57 @@ I sometimes compare different learning resources.
 I sometimes feel uncertain with my progress but I don't give up and I practice more.
 
 """
+
+
+# Pattern 5: I rarely + verb
+# গঠন: I rarely + Verb (base form)
+# বাংলা অর্থ: আমি কদাচিৎ / খুব কম … করি।
+"""
+I rarely wake up after nine.
+I rarely go to sleep to late.
+I rarely eat fast food.
+I rarely skip my breakfast.
+I rarely walk in the morning.
+I rarely go out at night.
+I rerely drink soft drinks.
+I rarely miss an important appointment.
+I rarely forget my responsibilities.
+I rarely waste my free time.
+I rarely buy things without thinking.
+I rarely spend money unnecessarily.
+I rarely read documentation.
+I rarely speak English with strangers.
+I rarely watch television.
+I rarely skip my English practice.
+I rarely use difficult words when speaking.
+I rarely forget to revise important lessons.
+I rarely study without a plan.
+I rarely give up on a difficult problem immediately.
+I rarely copy code without understanding it.
+I rarely ignore error messages.
+I rarely forget to backup important files.
+I rarely push github untested code.
+I rarely check my email with notifications.
+I rarely change code without checking the impact.
+I rarely work without taking any breaks.
+I rarely arrive late for work.
+I rarely interrupt someone while they are speaking.
+I rarely make dicisions in a hurry.
+I rarely judge people without knowing them.
+I rarely ignore constructive feedback.
+I rarely compare my journey with someone else.
+I rarely stop learning for a long time.
+I rarely practice mathematics.
+I rarely use my phone.
+I rarely use social media.
+I rarely go outside.
+I rarely eat dinner late.
+I rarely ask people.
+I rarely get stuck on easy problem.
+I rarely take a longer break.
+I rarely feel tired after work.
+I rarely write English.
+I rarely change my study plan.
+I rarely talk to my family and friends.
+
+"""
