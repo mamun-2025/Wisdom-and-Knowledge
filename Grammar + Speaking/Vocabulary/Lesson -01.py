@@ -77,7 +77,6 @@ Adjective = Gattable =
 5. My father gets up before sunrise.
 =
 
-
 3. Synonyms:
 Rise = ওঠা
 Stand up = দাঁড়ানো।
@@ -101,3 +100,50 @@ I got up at 6:30 AM. আমি ৬টা ৩০ মিনিটে বিছা�
 
 """
 
+# Word 03: Brush = ব্রাশ করা; ঘষে পরিষ্কার করা।
+# English Definition: To clean something using a brush.
+"""
+V1 = Brush = ব্রাশ করা
+V2 = Brushed = ব্রাশ করেছিল
+V3 = Brushed = ব্রাশ করেছে
+V4 = Brushing = ব্রাশ করছে
+V5 = Brushes = ব্রাশ করে
+
+1. Parts of Speech:
+Noun = Brush =	ব্রাশ
+Noun = Brushing = ব্রাশ করার কাজ
+Adjective = Brushable = ব্রাশ করা যায় এমন (বিরল)
+Adjective = Brushed = ব্রাশ করা বা ঘষে পরিষ্কার করা
+
+2. Sentences:
+1. I brush my teeth twice a day.
+=
+2. She brushed her hair.
+=
+3. He is brushing her teeth.
+=
+4. My mother brushes her hair every morining.
+=
+5. Don't forget to brush your teeth before bed.
+=
+
+3. Synonyms:
+Clean = পরিষ্কার করা
+Scrub = ঘষে পরিষ্কার করা।
+
+4. Antonyms: 
+এই অর্থে সরাসরি প্রচলিত বিপরীত শব্দ নেই।
+
+5. Collocations:
+Brush your teeth = দাঁত ব্রাশ করা।
+Brush your hari = চুল ব্রাশ করা।
+Brush your beard = দাড়ি আঁচড়ানো।
+Brush your clothes = কাপড় ব্রাশ করা।
+
+6. Common Mistake:
+Incorrect: I do brush my teeth every morning.
+(এটি ভুল নয়, তবে সাধারণ অভ্যাস বোঝাতে অপ্রয়োজনীয় জোর দেয়।)
+
+Correct: I brush my teeth every morning. আমি প্রতিদিন সকালে দাঁত ব্রাশ করি।
+
+"""
