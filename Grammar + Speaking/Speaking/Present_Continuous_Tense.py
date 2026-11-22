@@ -95,3 +95,82 @@ I'm typing on the keyboard.
 """
 
 # 4. বর্তমানে কাজ চলছে, কিন্তু এই মুহূর্তে করছি না
+"""
+Present Continuous শুধু কথা বলার মুহূর্তে চলমান কাজের জন্য নয়। 
+কোনো কাজ শুরু হয়েছে কিন্তু এখনও শেষ হয়নি—এমন পরিস্থিতিতেও ব্যবহার হয়।
+
+I'm learning English these days.
+I'm reading an interesting book.
+I'm learning Python.
+I'm learning programming.
+I'm studying Django.
+I'm improving my communications skills.
+I'm trying to develop good habits.
+I'm saving money for my future.
+I'm focusing my carrer.
+
+Book Examples:
+Kate wants to work in italy.So he's learning Italian.
+Some friends of mine are building their own house. They hope to finish it next summer.
+
+"""
+
+# 5. Today / This Week / This Year
+"""
+Today, this week, this month, this year ইত্যাদি বর্তমান সময়ের কোনো নির্দিষ্ট সময়কাল বোঝাতে পারে।
+এ ধরনের পরিস্থিতিতে Present Continuous ব্যবহার করা যায়।
+
+You're working hard today.
+I'm stuying a lot this week.
+I'm working on a Ecommerce Project this month.
+I'm learnig new skills this year.
+We're preparing for an examination this week.
+My brother is staying with us this month.
+The company is'nt doing well this year.
+I'm spending more time with my family these days.
+
+You're working hard today?
+= Yes, I have a lot to do.
+
+"""
+
+# 6. কোনো পরিবর্তন ঘটছে বোঝাতে
+"""
+Get = হয়ে ওঠা
+Become = হয়ে ওঠা
+Start = শুরু করা
+Begin = শুরু করা
+Change = পরিবর্তন হওয়া
+Improve = উন্নত হওয়া
+Increase = বৃদ্ধি পাওয়া
+Rise = বেড়ে যাওয়া
+Fall = কমে যাওয়া / পড়ে যাওয়া
+Grow = বৃদ্ধি পাওয়া
+
+My English is getting better.
+My pronunciation is improving.
+The weather is getting colder.
+The population is increasing.
+Food prices are rising.
+The situation is getting worse.
+Technology is changing rapidly.
+My confindence is growing.
+The number of students is increasing.
+I'm starting to enjoy my work.
+My programming skills are improving.
+My coding skills are improving.
+They're becoming more confidence.
+The examination is getting hard.
+Things are becoming easier.
+Childrens are rising.
+All people are changing day by day.
+I'm  beginning a new job.
+They're starting play football.
+Mangoes are falling from the tree.
+
+Book Examples:
+Is your English getting better?
+The population of the world is incresing very fast.
+At first I didn't like my job, but I'm starting to enjoy it now.
+
+"""
