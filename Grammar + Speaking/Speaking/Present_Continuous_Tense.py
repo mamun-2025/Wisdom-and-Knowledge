@@ -174,3 +174,77 @@ The population of the world is incresing very fast.
 At first I didn't like my job, but I'm starting to enjoy it now.
 
 """
+
+# 7. Positive Sentences
+"""
+Structure: Subject + am/is/are + Verb-ing
+
+I'm learning new skills.
+I'm learning new things.
+I'm practicing my English.
+I'm working hard.
+I'm preparing for my future.
+I'm typing the message.
+He's sweeping the floor.
+He's driving the car.
+He's washing the car.
+She's cleaning the table.
+She's reading the book.
+I'm developing my skills.
+I'm improving my communication skills.
+I'm reading an English Article.
+I'm watching an Educational Video.
+I'm taking some notes.
+I'm listening carefully.
+I'm improving my vocabulary.
+I'm solving the problem.
+I'm building a new project.
+He's learning computer programming.
+She's talking to her friend.
+We're building a new website.
+They're studying together.
+My father is working.
+My sister is going to shopping.
+My friends are waiting for me.
+The weather is changing.
+My English is getting better.
+The childrens are playing outside.
+My mother is cooking.
+My brother is having shower.
+I'm washing my mouth.
+I'm brushing my teeth.
+
+"""
+
+# 8. Negative Sentences
+"""
+Structure: Subject + am/is/are + not + Verb-ing
+
+I'm working. = I'm not working.
+I'm studying. = I'm not studying.
+He's sleeping. = He isn't sleeping.
+She's cooking. = She isn't cooking.
+We're playing. = We aren't playing.
+They're listening. = They aren't listening.
+He's coming. = He isn't coming.
+She's talking. = He isn't talking.
+He's driving. = He isn't driving.
+She's cleaning. = She isn't cleaning.
+They're waiting. = They aren't waiting.
+I'm watching TV. = I'm not watching TV.
+
+Natural Speakings:
+I'm not feeling well today.
+I'm not joking.
+I'm not wasting my time.
+I'm not giving up.
+I'm not making excuses.
+I'm not going anywhere.
+I'm not using my phone.
+I'm not watching anything right now.
+I'm not feeling sleepy.
+I'm not avoiding my responsibilities.
+I'm not feeling nervous.
+I'm not feeling frushted.
+
+"""
