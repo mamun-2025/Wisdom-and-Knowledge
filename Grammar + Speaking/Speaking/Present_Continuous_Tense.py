@@ -249,3 +249,72 @@ I'm not feeling frushted.
 
 """
 
+# 9. Yes/No Questions
+"""
+Structure: Am/Is/Are + Subject + Verb -ing ?
+
+Are you studying? = Yes, I'm.
+Are you learning English? = Yes, I'm.
+Are you practicing programming? = Yes, I'm. 
+Are you working today? = No, I'm not.
+Is he sleeping? = Yes, he's.
+Is she cooking? = No, she isn't.
+Is he taking a shower? = Yes, he's / No, he isn't.
+Are they playing? = Yes, they're.
+Are they working? = No, they aren't.
+Are you listing to me? = Yes, I'm.
+Is it raining outside? = No, it isn't.
+Are you enjoying your studies? = Yes, I'm.
+Are you improving your English? = Yes, I'm.
+Are you wasting your time? = No, I'm not.
+
+"""
+
+# 10. WH Questions
+"""
+1. What are you doing? 
+= I'm studying.
+
+2. What are you learning?
+= I'm learning English.
+
+3. What are you reading/
+= I'm reading an interesting book.
+
+4. Where are you going?
+= I'm going home.
+
+5. Where are you staying?
+= I'm staying with my friend.
+
+6. Why are laughing?
+= I'm watching something funny.
+
+7. Why are crying?
+= I'm feeling sad.
+
+8. Who are you talking to ?
+= I'm talking with my friend.
+
+9. What are thinking about?
+= I'm thinking about my future.
+
+10. How are you feeling today?
+= I'm feeling.
+
+11. What is happening?
+= Something is happening outside.
+
+12. What are they discussing?
+= They're discussing a new project.
+
+13. Why is he shouting?
+= He's getting angry.
+
+14. Who is calling you?
+= My friend is calling me.
+
+15. How is your English improving?
+= I'm practicing everyday.
+
+"""
