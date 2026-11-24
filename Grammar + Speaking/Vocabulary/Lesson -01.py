@@ -147,3 +147,84 @@ Incorrect: I do brush my teeth every morning.
 Correct: I brush my teeth every morning. আমি প্রতিদিন সকালে দাঁত ব্রাশ করি।
 
 """
+
+# Word 04: Wash = ধোয়া; পানি দিয়ে পরিষ্কার করা।
+# English Definition: To clean something using water, usually with soap.
+"""
+V1 = Wash = ধোয়া
+V2 = Washed = ধুয়েছিল
+V3 = Washed = ধুয়েছে
+V4 = Washing = ধুচ্ছে
+V5 = Washes = ধোয়
+
+1. Parts of Speech
+Noun = Wash = ধোয়া
+Noun = Washer = ধোয়ার যন্ত্র বা ব্যক্তি
+Noun = Washing = ধোয়ার কাজ
+Adjective = Washable = ধোয়া যায় এমন
+Adjective = Wahsed = ধোয়া হয়েছে এমন
+
+2. Sentences
+1. I wash my face every morning.
+2. She washed her clothes yesterday.
+3. He has washed all dishes.
+4. He's washing her hands.
+5. We wash our dishes after dinner.
+6. The shirt is washable.
+
+3. Synonyms:
+Clean = পরিষ্কার করা
+Rinse = পানি দিয়ে কুলকুচি বা ধুয়ে নেওয়া
+
+4. Antonyms:
+এই অর্থে নির্দিষ্ট প্রচলিত বিপরীত শব্দ নেই।
+
+5. Collocations:
+Wash your hands = হাত ধোয়া।
+Wash your face = মুখ ধোয়া।
+Wash clothes = কাপড় ধোয়া।
+Wash dishes = বাসনপত্র ধোয়া।
+Wash the car = গাড়ি ধোয়া।
+
+"""
+
+# Word 05: Take a shower = শাওয়ারের নিচে গোসল করা।
+# English Definition: To wash your body while standing under a shower.
+"""
+Verb Forms: এখানে মূল Verb হলো Take।
+V1 = Take = নেওয়া
+V2 = Took = নিয়েছিল
+V3 = Taken = নিয়েছে
+V4 = Taking = নিচ্ছে
+V5 = Takes = নেয়
+
+1. Parts of Speech 
+Noun = Shower = শাওয়ার; গোসলের পানি পড়ার ব্যবস্থা।
+Noun = Showwring = শাওয়ার নেওয়ার কাজ।
+Adjective = Showered = শাওয়ার নেওয়া (প্রসঙ্গভেদে)।
+Verb = Shower = শাওয়ার দেওয়া বা ঝরানো।
+
+2. Sentences 
+1. I take a shower every morning.
+2. She took a shower before breakfast.
+3. I have taken a shower five minutes ago.
+4. He's taking a shower right now.
+5. I usually take a cold shower in Summer.
+6. You should take a shower after exercise.
+7. I need to take a shower.
+8. Did you take a shower?
+9. I will take a shower.
+
+3. Synonyms: 
+Have a shower = গোসল করা; 
+Shower — শাওয়ার নেওয়া।
+
+4. Antonym:
+সরাসরি প্রচলিত বিপরীত শব্দ নেই।
+
+5. Collocations:
+Take a cold shower = ঠান্ডা পানিতে গোসল করা।
+Take a hot shower = গরম পানিতে গোসল করা।
+Take a quick shower = দ্রুত গোসল করা।
+
+"""
