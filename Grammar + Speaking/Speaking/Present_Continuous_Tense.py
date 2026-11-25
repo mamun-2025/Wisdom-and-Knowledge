@@ -318,3 +318,135 @@ Are you wasting your time? = No, I'm not.
 = I'm practicing everyday.
 
 """
+
+# 11. Daily Life Vocabulary
+"""
+Wake up =
+I'm waking up.
+Brush =
+I'm brushing my teeth.
+Wash =
+I'm washing my face.
+Shower =
+I'm taking a shower.
+Dress =
+I'm getting dressed.
+Eat =
+I'm eating breakfast.
+Drink =
+I'm drinking water.
+Clean =
+I'm cleaning my room.
+Prepare =
+I'm preparing lunch.
+Rest =
+I'm resting.
+Travel =
+I'm travelling.
+Exercise =
+I'm exercising.
+Walk =
+I'm walking.
+Wait =
+I'm waiting.
+Return =
+I'm returning my home.
+
+"""
+
+# 12. Study & Career Vocabulary
+"""
+Attend a class = ক্লাসে অংশ নেওয়া
+I'm attending an online class.
+
+Take notes = নোট নেওয়া
+I'm taking mathematics notes.
+
+Revise a lesson = পাঠ পুনরায় পড়া
+I'm revising my grammar lesson.
+
+Solve a problem = সমস্যা সমাধান করা
+I'm solving a programming problem.
+
+Practice speaking = কথা বলার অনুশীলন করা
+I'm practicing English pronunciation.
+
+Build a project = প্রজেক্ট তৈরি করা
+I'm building an Ecommerce website.
+
+Write code = কোড লেখা
+I'm writing easy cody.
+
+Fix a bug = Bug ঠিক করা
+I'm fixing a bug in my Django project.
+
+Test an application = অ্যাপ পরীক্ষা করা
+I'm testing my application.
+
+Improve performance = কার্যক্ষমতা উন্নত করা
+I'm improving my English performance.
+
+Prepare for an interview = ইন্টারভিউয়ের প্রস্তুতি নেওয়া
+I'm preparing for a technical interview.
+
+Develop a skill = দক্ষতা তৈরি করা
+I'm developing a programming skill.
+
+"""
+
+# 13. Short Forms
+"""
+I am = I'm
+Yoy are = You're
+He is = He's 
+She is = She's 
+We are = We're
+They are = They're
+It is = It's
+I am not = I'm not 
+He is not = He isn't/ He's not 
+She is not = She isn't/ She's not 
+They are not = They aren't/ They're not 
+we are not = We aren't/ We're not 
+
+"""
+
+# 14. Natural Expressions
+"""
+I'm just learning.
+I'm working on it.
+I'm getting ready.
+I'm looking for someting.
+I'm trying my best.
+I'm coming right now.
+What's going on?
+What's happening here?
+I'm running late.
+I'm figuring it out.
+I'm taking my time.
+I'm getting better at it.
+I'm looking forward to it.
+I'm having a good time.
+I'm doing my best.
+
+"""
+
+# 15. বাক্য যুক্ত করে Natural English বলা
+"""
+
+
+"""
+
+# 16. Conversation Practice
+"""
+
+
+"""
+
+# 17. 1–2 Minute Speaking Practice
+"""
+Topic: What Am I Doing These Days?
+
+
+"""
+
