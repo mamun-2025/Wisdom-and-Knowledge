@@ -228,3 +228,93 @@ Take a hot shower = গরম পানিতে গোসল করা।
 Take a quick shower = দ্রুত গোসল করা।
 
 """
+
+# Word 06: Eat = খাওয়া; খাদ্য গ্রহণ করা।
+# English Definiton: To put food into your mouth, chew it, and swallow it
+"""
+V1 = Eat = খাওয়া
+V2 = ate = 	খেয়েছিল
+V3 = eaten = খেয়েছে
+V4 = eating = খাচ্ছে
+V5 = eats = খায়
+
+1. Parts of Speech:
+Noun = Eating = খাওয়ার কাজ
+Noun = Eater = খাদ্যগ্রহণকারী
+Adjective = Edible = খাওয়ার উপযোগী
+
+2. Sentences:
+1. I eat rice everyday.
+2. She ate an apple yesterday.
+3. We have eaten breakfast.
+4. The children are eating lunch.
+5. He eats vegetables regularly.
+6. Don't eat too much sugar.
+7. They're eating rice.
+8. I ate an egg yesterday.
+
+3. Synonyms:
+Consume = গ্রহণ করা;
+Devour = দ্রুত ও আগ্রহের সঙ্গে খাওয়া
+Dine = খাবার খাওয়া।
+
+4. Antonyms: 
+এই অর্থে সরাসরি বিপরীত শব্দ নেই।
+
+5. Collocations:
+Eat breakfast = সকালের নাশতা খাওয়া।
+Eat lunch = দুপুরের খাবার খাওয়া।
+Eat dinner = রাতের খাবার খাওয়া।
+Eat healthy food = স্বাস্থ্যকর খাবার খাওয়া।
+Eat slowly = ধীরে ধীরে খাওয়া।
+Eat out = বাইরে রেস্টুরেন্টে খাওয়া
+ 
+6. Common mistakes:
+Incorrect: I am eat rice.
+Correct: I am eating rice.
+
+"""
+
+# Word 07: Drink = পান করা
+# English Definition: To take a liquid into your mouth and swallow it.
+"""
+V1 = Drink = পান করা
+V2 = Drank = পান করেছিল
+V3 = Drunk = পান করেছে
+V4 = Drinking = পান করছে
+V5 = Drinks = পান করে
+
+1. Parts of Speech:
+Noun = Drink = পানীয়।
+Noun = Drinker = পানকারী।
+Noun = Drinking = পান করার কাজ।
+Adjective = Drinkable = পান করার উপযোগী।
+Adjective = Drunken = মাতাল (বিশেষ প্রসঙ্গে)।
+
+2. Sentences:
+1. I drink water every morning.
+2. She drank a cup of tea.
+3. He has drunk two glasses of water.
+4. They are drinking coffee.
+5. This water is safe to drink.
+
+3. Synonyms:
+Sip = চুমুক দেওয়া
+Swallow = গিলে ফেলা
+Consume = গ্রহণ করা।
+
+4. Antonyms:
+এই অর্থে সরাসরি বিপরীত শব্দ নেই।
+
+5. Collocations:
+Drink water = পানি পান করা।
+Drink tea = চা পান করা।
+Drink coffee = কফি পান করা।
+Drink milk = দুধ পান করা।
+Drink slowly = ধীরে পান করা।
+Drink enough water = পর্যাপ্ত পানি পান করা।
+
+"""
+
+# Word 08: Cook =
+# English Definiton: 
