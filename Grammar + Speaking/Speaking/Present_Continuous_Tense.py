@@ -433,12 +433,72 @@ I'm doing my best.
 
 # 15. বাক্য যুক্ত করে Natural English বলা
 """
+01. AND — এবং
+দুটি চলমান কাজ বা সম্পর্কিত বিষয় যুক্ত করতে ব্যবহার হয়।
+
+I'm leaning English, and I'm practicing speaking everyday.
+I'm reading a book, and my brother is watching TV.
+I'm typing message, and I'm learing Enlgish.
+My mother is cooking dinner, and I'm helping her in the kitchen.
+I'm working on my computer, and prodip vai is talking to me.
+It's raining outside, and people are running for shelter.
+I'm learning Python and Django, and I'm building an Ecommerce-Project.
+My father is reading newspaper, and my mother is preparing breakfast.
+I'm listening to an English podcast, and I'm taking notes.
+The children are playing outside, and Their parents are watching them.
+I'm improving my communication skills, and I'm becoming more confident.
+
+02. BUT — কিন্তু
+দুটি বিপরীত পরিস্থিতি যুক্ত করতে ব্যবহার হয়।
+
+I'm feeling tired, but I'm still studying English.
+I'm working on my computer, but prodib vai driving car.
+I'm trying to sleep, but my neighbors are making noise.
+I'm watching an English movie, but I don't understand everything.
+My brother is watching mobile, but my sister is preparing breakfast.
+I'm trying to concentrate, but people are talking loudly.
+I'm learning new vocabulary everyday, but I'm forgetting some words.
+It's getting late, but we're still working.
+She's preparing for her exam, but she's also helping her family.
+I'm following the instructions, but the computer isn't responding.
+We're making progress, but we're still facing some problems.
+
 
 
 """
 
 # 16. Conversation Practice
 """
+Conversation 1 — At Home (বাড়িতে)
+   What are you doing?
+   = I'm reading a book.
+   What are you reading?
+   = I'm reading an English grammar book.
+   Are you enjoying it?
+   = Yes, I'm learning a lot.
+   Are you studying for your exam?
+   = No, I'm improving my English.
+
+Conversation 2 — In the Kitchen (রান্নাঘরে)
+   What are you doing in the kitchen?
+   = I'm cooking dinner.
+   What are you making?
+   = I'm making rice and vegetables.
+   Is mother helping you?
+   = Yes, she's cutting the vegebtables.
+   Is father eating with us?
+   = Yes, he's waiting for dinner.
+
+Conversation 3 — On the Phone (ফোনে কথা বলা)
+   Hello! What are you doing?
+   = I'm working on my computer.
+   Are you working on your project?
+   = Yes, I'm developing a website.
+   Are you using django?
+   = Yes, I'm using Django and Python.
+   Am I disturbing you?
+   = No, You're not disturbing me. I'm just taking as short break.
+
 
 
 """
