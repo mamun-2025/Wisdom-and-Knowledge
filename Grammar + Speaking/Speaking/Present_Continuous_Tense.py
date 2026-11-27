@@ -101,13 +101,20 @@ Present Continuous শুধু কথা বলার মুহূর্তে 
 
 I'm learning English these days.
 I'm reading an interesting book.
+I'm working on a new project.
+I'm preparing for a job interview.
+I'm staying with my friend this week.
+I'm developing new habits.
+I'm taking an online course.
 I'm learning Python.
 I'm learning programming.
 I'm studying Django.
 I'm improving my communications skills.
+I'm trying to imporving my communications skills.
 I'm trying to develop good habits.
 I'm saving money for my future.
-I'm focusing my carrer.
+I'm focusing on my carrer.
+I'm reading a book about personal finance.
 
 Book Examples:
 Kate wants to work in italy.So he's learning Italian.
@@ -128,6 +135,11 @@ We're preparing for an examination this week.
 My brother is staying with us this month.
 The company is'nt doing well this year.
 I'm spending more time with my family these days.
+I'm living with my parents at the moment.
+I'm working from home this week.
+She's staying at a hotel for a few days.
+We're using a temporary solution.
+He's working on a different project this month.
 
 You're working hard today?
 = Yes, I have a lot to do.
@@ -150,6 +162,8 @@ Grow = বৃদ্ধি পাওয়া
 My English is getting better.
 My pronunciation is improving.
 The weather is getting colder.
+The days are getting shorter.
+The vocabulary is expanding.
 The population is increasing.
 Food prices are rising.
 The situation is getting worse.
@@ -162,9 +176,12 @@ My coding skills are improving.
 They're becoming more confidence.
 The examination is getting hard.
 Things are becoming easier.
+Things are getting better.
+Life is becoming more challenging.
 Childrens are rising.
 All people are changing day by day.
 I'm  beginning a new job.
+I'm becoming more independent.
 They're starting play football.
 Mangoes are falling from the tree.
 
@@ -246,6 +263,15 @@ I'm not feeling sleepy.
 I'm not avoiding my responsibilities.
 I'm not feeling nervous.
 I'm not feeling frushted.
+I'm not working today.
+I'm not expecting anything.
+I'm not rushing things. আমি তাড়াহুড়া করছি না।
+I'm not comparing myself with others.
+I'm not losing hope. আমি আশা হারাচ্ছি না।
+He's not paying attention.
+They're not cooperating.
+We're not wasting time.
+It's not working properly.
 
 """
 
@@ -267,6 +293,21 @@ Is it raining outside? = No, it isn't.
 Are you enjoying your studies? = Yes, I'm.
 Are you improving your English? = Yes, I'm.
 Are you wasting your time? = No, I'm not.
+Are you feeling better now? = Yes, I'm.
+Are you waiting for someone? = No, I'm not.
+Are you working on someting? = Yes, I'm.
+Are you preparing for an interview? = Yes, I'm preparing for an technical interview.
+Are you watching a movie? = No, I'm not.
+Is your mother cooking? = Yes, he's.
+Is your brother studying? = No, he's not.
+Are your friends coming? = Yes, they're.
+Are you taking notes? = Yes, I'm.
+Are you making progress? = Yes, I'm.
+Are you trying your best? = No, But I'm no giving up.
+Are you enjoying this lesson? = Yes, I'm.
+Are you saving money? = Yes, I'm.
+Are you planning something? = No, I'm not.
+Is the weather getting colder? = No, the weather isn't.
 
 """
 
@@ -278,7 +319,7 @@ Are you wasting your time? = No, I'm not.
 2. What are you learning?
 = I'm learning English.
 
-3. What are you reading/
+3. What are you reading?
 = I'm reading an interesting book.
 
 4. Where are you going?
@@ -300,7 +341,7 @@ Are you wasting your time? = No, I'm not.
 = I'm thinking about my future.
 
 10. How are you feeling today?
-= I'm feeling.
+= I'm feeling better much.
 
 11. What is happening?
 = Something is happening outside.
@@ -317,84 +358,126 @@ Are you wasting your time? = No, I'm not.
 15. How is your English improving?
 = I'm practicing everyday.
 
+16. What are you working on? 
+= I'm working on Ecommerce Project.
+
+17. What are you trying to achieve? 
+= I'm trying to achieve my goal.
+
+18. How are you managing your time? 
+= I'm following my routine.
+
+19. Who are you waiting for?
+= I'm waiting for my friends.
+
+20. What are you planning for the future?
+= I'm planning to become a professional backend developer for my future.
+
 """
 
 # 11. Daily Life Vocabulary
 """
-Wake up =
 I'm waking up.
-Brush =
 I'm brushing my teeth.
-Wash =
 I'm washing my face.
-Shower =
 I'm taking a shower.
-Dress =
 I'm getting dressed.
-Eat =
 I'm eating breakfast.
-Drink =
 I'm drinking water.
-Clean =
 I'm cleaning my room.
-Prepare =
 I'm preparing lunch.
-Rest =
 I'm resting.
-Travel =
 I'm travelling.
-Exercise =
 I'm exercising.
-Walk =
 I'm walking.
-Wait =
 I'm waiting.
-Return =
 I'm returning my home.
+I'm making breakfast.
+I'm having breakfast.
+I'm washing my clothes.
+I'm having lunch.
+I'm taking a short break.
+I'm going outside.
+I'm coming back home.
+I'm watching television.
+I'm talking to my friend.
+I'm getting ready for bed.
+I'm going to sleep.
 
 """
 
 # 12. Study & Career Vocabulary
 """
-Attend a class = ক্লাসে অংশ নেওয়া
 I'm attending an online class.
-
-Take notes = নোট নেওয়া
 I'm taking mathematics notes.
-
-Revise a lesson = পাঠ পুনরায় পড়া
 I'm revising my grammar lesson.
-
-Solve a problem = সমস্যা সমাধান করা
 I'm solving a programming problem.
-
-Practice speaking = কথা বলার অনুশীলন করা
 I'm practicing English pronunciation.
-
-Build a project = প্রজেক্ট তৈরি করা
 I'm building an Ecommerce website.
-
-Write code = কোড লেখা
 I'm writing easy cody.
-
-Fix a bug = Bug ঠিক করা
 I'm fixing a bug in my Django project.
-
-Test an application = অ্যাপ পরীক্ষা করা
 I'm testing my application.
-
-Improve performance = কার্যক্ষমতা উন্নত করা
 I'm improving my English performance.
-
-Prepare for an interview = ইন্টারভিউয়ের প্রস্তুতি নেওয়া
 I'm preparing for a technical interview.
-
-Develop a skill = দক্ষতা তৈরি করা
 I'm developing a programming skill.
+I'm preparing for my exam.
+I'm trying to speak fluently.
+I'm correcting my mistakes.
+I'm repeating these sentences.
+I'm listening to English podcasts.
+I'm watching English lessons.
+I'm reading an Englihs book.
+I'm learning new expressions.
+I'm improving my vocabulary.
+I'm practicing speaking.
+I'm studying grammar.
+I'm working on my communications skills.
+I'm trying to think in English.
+I'm learning something new everyday.
+I'm making progress slowly.
+I'm spending more time practicing.
+I'm building my English-Speaking habit.
+I'm learning how to express myself.
+I'm becoming more confident.
+I'm making fewer mistakes now.
+I'm focusing on my week points.
+I'm trying to understand the rules.
 
 """
 
-# 13. Short Forms
+# 13. Technology & Programming
+"""
+I'm using my phone, laptop, computer.
+I'm writing code.
+I'm learning python.
+I'm building a website.
+I'm debugging my code.
+I'm developing an application.
+I'm working on my django project.
+I'm learning backend development.
+I'm creating a database.
+I'm testing my application.
+I'm fixing a bug.
+I'm searching for a solution.
+I'm uploading some files.
+I'm learning Git and Github.
+I'm improving my programming skills.
+
+"""
+
+# 14. Family, Relationships & Social Life
+"""
+
+
+"""
+
+# 15. Feelings, Emotions & Personal Development
+"""
+
+
+"""
+
+# 16. Short Forms
 """
 I am = I'm
 Yoy are = You're
@@ -411,9 +494,10 @@ we are not = We aren't/ We're not
 
 """
 
-# 14. Natural Expressions
+# 17. Natural Expressions
 """
 I'm just learning.
+I'm just looking.
 I'm working on it.
 I'm getting ready.
 I'm looking for someting.
@@ -425,13 +509,19 @@ I'm running late.
 I'm figuring it out.
 I'm taking my time.
 I'm getting better at it.
-I'm looking forward to it.
+I'm looking forward to it. আমি এটির জন্য অপেক্ষা করছি / আগ্রহী।
 I'm having a good time.
 I'm doing my best.
+I'm waiting for someone.
+I'm not sure yet.
+I'm thinking about it.
+I'm running out of time. আমার সময় ফুরিয়ে আসছে
+I'm just kidding.
+I'm getting used to it. আমি এতে অভ্যস্ত হয়ে উঠছি।
 
 """
 
-# 15. বাক্য যুক্ত করে Natural English বলা
+# 17. বাক্য যুক্ত করে Natural English বলা
 """
 01. AND — এবং
 দুটি চলমান কাজ বা সম্পর্কিত বিষয় যুক্ত করতে ব্যবহার হয়।
@@ -510,3 +600,43 @@ Topic: What Am I Doing These Days?
 
 """
 
+# 18. Sentence Exapansion
+"""
+
+"""
+
+# 19. Important Grammar Mistakes
+"""
+I am learn English.	I'm learning English.
+He are working.	He is working.
+She am cooking.	She is cooking.
+They is playing.	They are playing.
+I learning Python.	I'm learning Python.
+Are you learn English?	Are you learning English?
+He isn't work.	He isn't working.
+I am go to school.	I'm going to school.
+She are reading.	She is reading.
+We is studying.	We are studying.
+
+Stative Verbs — বিশেষ সতর্কতা
+
+কিছু Verb সাধারণত Continuous Tense-এ ব্যবহার করা হয় না।
+
+যেমন:
+- Know
+- Understand
+- Believe
+- Want
+- Need
+- Love
+- Prefer
+- Remember
+Examples:
+- Incorrect: I'm knowing him.
+- Correct: I know him.
+- Incorrect: I'm understanding you.
+- Correct: I understand you.
+- Incorrect: I'm wanting a new phone.
+- Correct: I want a new phone.
+
+"""
